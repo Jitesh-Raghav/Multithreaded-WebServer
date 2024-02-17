@@ -1,3 +1,5 @@
+package MultiThreaded;
+
 import java.io.BufferedReader;
 import java.io.*;
 import java.io.InputStreamReader;
