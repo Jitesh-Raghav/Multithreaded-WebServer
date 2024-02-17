@@ -1,4 +1,4 @@
-# Multithreaded Web Server
+# Multithreaded Web Server🖥🚀
 
 This repository contains a Java-based multithreaded web server implementation for handling concurrent client connections.
 
@@ -10,12 +10,14 @@ This repository contains a Java-based multithreaded web server implementation fo
 
 ## Usage:
 
-**Running the Server**
--Clone the repository to your local machine.  
+**Running the Server**  
+-Clone the repository to your local machine.    
 -Compile the Server_MultiThreaded.java file using javac:  
 **"javac MultiThreaded/Server_MultiThreaded.java"**  
+  
 -Run the server using the following command:  
 **"java MultiThreaded.Server_MultiThreaded"**  
+  
 The server will start listening on port 8010.  
 
 ## Testing with JMeter(Optional, but preffered):
@@ -32,7 +34,7 @@ The server will start listening on port 8010.
 -Compile and run the Server class using cmd.  
 -Run the compiled Client class with the server's IP address and port as arguments to establish a connection.  
 
-## ERRORS:
+## Errors:
 
 -If you get an error similar to "could not load main class" etc, try to remove the "package MultiThreaded;" from the top of class.  
 -Change the directory of your client & server classes outside the package MultiThreaded.  
